@@ -1,0 +1,40 @@
+---
+content_type: page
+title: Calendar
+uid: 156d5a37-b625-fdba-261c-cad8cef6664c
+---
+
+| LEC # | TOPICS AND WORKS | KEY DATES |
+| --- | --- | --- |
+| 1 | Welcome  {{< br >}}  {{< br >}}Ritual Reading of the Syllabus  {{< br >}}  {{< br >}}Overview | &nbsp; |
+| {{< td-colspan 3 >}}**Prelude: 1900-1960**{{< /td-colspan >}} |||
+| 2 | _Expressionism and Serial Technique_  {{< br >}}  {{< br >}}Arnold Schoenberg: _Pierrot lunaire_ (1912), _Variations for Orchestra_ (1928)  {{< br >}}  {{< br >}}Alban Berg: _Five Orchestral Songs_ _(Altenberg-Lieder)_ (1912), _Wozzeck_ (1922), _Lulu_ (1935)  {{< br >}}  {{< br >}}Anton Webern: _Slow Movement for String Quartet_ (1905), _Six Bagatelles_ _for String Quartet_ (1913), _Piano Variations_ (1936) | &nbsp; |
+| 3 | _Primitivism, Neoclassicism, Mavericks_  {{< br >}}  {{< br >}}Igor Stravinsky: _The Rite of Spring_ (1913), _The Rake's Progress_ (1951)  {{< br >}}  {{< br >}}Maurice Ravel: _Le tombeau de_ _Couperin_ (1917)  {{< br >}}  {{< br >}}Béla Bartók: _Music for Strings_, _Percussion, and Celesta_ (1936)  {{< br >}}  {{< br >}}Olivier Messiaen: _Quatuor pour_ _la fin du temps_ (1940)  {{< br >}}  {{< br >}}Edgard Varèse: _Hyperprism_ (1923) | &nbsp; |
+| 4 | _Electronics and Other Developments after World War II  {{< br >}}  {{< br >}}_Pierre Boulez: _Structures I_ (1952), _Le marteau sans maître_ (1954)  {{< br >}}  {{< br >}}Karlheinz Stockhausen: _Gesang_ _der Jünglinge_ (1956), _Zyklus_ (1959)  {{< br >}}  {{< br >}}Edgard Varèse: _Poème_ _électronique_ (1958)  {{< br >}}  {{< br >}}Iannis Xenakis: _Metastasis_ (1954) | &nbsp; |
+| {{< td-colspan 3 >}}**Unit One: Order and Entropy**{{< /td-colspan >}} |||
+| 5 | Pierre Boulez: _Pli selon pli_ \[Fold upon Fold\] (1957-62)  {{< br >}}  {{< br >}}Ralph Shapey: _Incantations_ (1961)  {{< br >}}  {{< br >}}Luigi Nono: _Canti di vita e_ _d'amore_ (1962)  {{< br >}}  {{< br >}}Igor Stravinsky: _Requiem Canticles_ (1965-66) | &nbsp; |
+| 6 | Donald Martino: _Notturno_ (1973)  {{< br >}}  {{< br >}}Elliott Carter: _A Mirror on which_ _to Dwell_ (1975)  {{< br >}}  {{< br >}}Iannis Xenakis: _Pleïades_ (1979)  {{< br >}}  {{< br >}}Charles Wuorinen: _Capriccio_ (1981) | &nbsp; |
+| 7 | Karlheinz Stockhausen: _Samstag_ \[Saturday\] (1981-83) from _Licht_ \[Light\]  {{< br >}}  {{< br >}}Brian Ferneyhough: _Intermedio alla ciccona_ (1986)  {{< br >}}  {{< br >}}Pierre Boulez: _Sur incises_ (1996-98) | &nbsp; |
+| {{< td-colspan 3 >}}**Unit Two: Mavericks**{{< /td-colspan >}} |||
+| 8 | Krzysztof Penderecki: _Threnody_ (1960)  {{< br >}}  {{< br >}}György Ligeti: _Atmosphères_ (1961)  {{< br >}}  {{< br >}}Witold Lutoslawski: _Trois poèmes d'Henri Michaux_ \[Three Poems by Henri Michaux\] (1963)  {{< br >}}  {{< br >}}Karel Husa: _Music for Prague_ (1968)  {{< br >}}  {{< br >}}Giacinto Scelsi: _Khoom_ (1962)  {{< br >}}  {{< br >}}Harry Partch: _And on the Seventh day Petals fell in Petaluma_ (1964) | Listening quiz 1 due |
+| 9 | George Crumb: _Ancient Voices of Children_ (1970)  {{< br >}}  {{< br >}}György Kurtág: _Messages of the Late R. V. Trussova_ (1976-80)  {{< br >}}  {{< br >}}Harrison Birtwistle: _Secret Theatre_ (1984) | &nbsp; |
+| 10 | Conlon Nancarrow: Selected _Studies for Player Piano_  {{< br >}}  {{< br >}}György Ligeti: Selected _Études_ for Piano Solo (1985-)  {{< br >}}  {{< br >}}Henri Dutilleux: _Mystère de l’instant_ (1989)  {{< br >}}  {{< br >}}Harrison Birtwistle: Selected movements from _Harrison's Clocks_ (1997-98) | &nbsp; |
+| {{< td-colspan 3 >}}**Unit Three: New Sounds, New Technologies**{{< /td-colspan >}} |||
+| 11 | John Cage: _Aria_ (1958)  {{< br >}}  {{< br >}}Milton Babbitt: _Phonemena_ (1969-70)  {{< br >}}  {{< br >}}Luciano Berio: _Sequenza III_ (1966)  {{< br >}}  {{< br >}}Mario Davidovsky: _Synchronisms_ _no. 3_ (1965)  {{< br >}}  {{< br >}}Mario Davidovsky_: Synchronisms no. 6_ (1970) | Prospectus due |
+| 12 | Paul Lansky: _Six Fantasies on a Poem by Thomas Campion_ (1978-79)  {{< br >}}  {{< br >}}Pierre Boulez: _Répons_ (1981-84)  {{< br >}}  {{< br >}}George Benjamin: _Antara_ (1985-87)  {{< br >}}  {{< br >}}Mario Davidovsky: _Synchronisms no. 9_ (1988) | &nbsp; |
+| 13 | Kaija Saariaho: _Noa noa_ (1992)  {{< br >}}  {{< br >}}Jonathan Harvey: _Song Offerings_ (1985)  {{< br >}}  {{< br >}}Tristan Murail: _Allégories_ (1989)  {{< br >}}  {{< br >}}Joan La Barbara: _Shamansong_ (1992)  {{< br >}}  {{< br >}}John Oswald: _Plunderphonic  {{< br >}}  {{< br >}}_Richard D. James (a.k.a. Aphex Twin): Selected pieces arranged for chamber orchestra | Listening quiz 2 due |
+| {{< td-colspan 3 >}}**Unit Four: Quotation and Polystyle**{{< /td-colspan >}} |||
+| 14 | Stockhausen: _Hymnen_ (1966-67)  {{< br >}}  {{< br >}}Luciano Berio: _Sinfonia_ (1968)  {{< br >}}  {{< br >}}Peter Maxwell Davies: _Eight_ _Songs for a Mad King_ (1969) | &nbsp; |
+| 15 | The Beatles: _Sergeant Pepper's_ _Lonely Hearts Club Band_ (1967)  {{< br >}}  {{< br >}}Leonard Bernstein: _Mass_ (1971)  {{< br >}}  {{< br >}}HK Gruber: _Frankenstein!!_ (1971-78)  {{< br >}}  {{< br >}}William Bolcom: _Songs of Innocence and Experience_ (1981-84) | &nbsp; |
+| 16 | Alfred Schnittke: _String Quartet no. 3_ (1983)  {{< br >}}  {{< br >}}John Harbison: _November 19,_ _1828_ (1988)  {{< br >}}  {{< br >}}John Zorn: _Cat-o'-nine-tails_ (1988)  {{< br >}}  {{< br >}}Osvaldo Golijov: _Ayre_ (2004) | &nbsp; |
+| {{< td-colspan 3 >}}**Unit Five: The Minimalist Impulse**{{< /td-colspan >}} |||
+| 17 | Terry Riley: _In C_ (1964)  {{< br >}}  {{< br >}}Steve Reich: _Music for 18 Musicians_ (1976)  {{< br >}}  {{< br >}}Philip Glass: _Einstein on the Beach_ (1976)  {{< br >}}  {{< br >}}John Adams: _Shaker Loops_ (1978)  {{< br >}}  {{< br >}}King Crimson \[Robert Fripp et al.\]: _Discipline_ (1981)  {{< br >}}  {{< br >}}Laurie Anderson: _United States, parts I-IV_ (1981) | Drafts due |
+| 18 | Henryk Górecki: _Symphony no. 3_ (1976)  {{< br >}}  {{< br >}}Louis Andriessen: _De staat_ (1972-74)  {{< br >}}  {{< br >}}Arvo Pärt: _Berlin Mass_ (1992)  {{< br >}}  {{< br >}}John Adams: _Nixon in China_ (1985-87) | Listening quiz 3 due |
+| 19 | Meredith Monk: _Atlas_ (1987-91)  {{< br >}}  {{< br >}}Michael Torke: _Adjustable Wrench_ (1987)  {{< br >}}  {{< br >}}Elena Ruehr: _Shimmer_ (1994)  {{< br >}}  {{< br >}}Julia Wolfe: _Lick_ (1994)  {{< br >}}  {{< br >}}Evan Ziporyn: _Partial Truths_ (1997)  {{< br >}}  {{< br >}}John Adams: _On the_ _Transmigration of Souls_ (2002)  {{< br >}}  {{< br >}}Brian Robison: _The Congress of the Insomniacs_ (2003) | &nbsp; |
+| {{< td-colspan 3 >}}**Unit Six: The Persistence of Tonality**{{< /td-colspan >}} |||
+| 20 | Dimitri Shostakovich: _String Quartet no. 8 in C Minor_ (1960)  {{< br >}}  {{< br >}}Benjamin Britten: _War Requiem_ (1961)  {{< br >}}  {{< br >}}George Rochberg: _String Quartet no. 3_ (1972)  {{< br >}}  {{< br >}}David Del Tredici: _Final Alice_ (1976)  {{< br >}}  {{< br >}}Joan Tower: _Petroushskates_ (1980)  {{< br >}}  {{< br >}}Joan Tower: _Fanfare for the Uncommon Woman no. 1_ (1986) and _no. 4_ (1992) | &nbsp; |
+| 21 | John Harbison: _Mirabai Songs_ (1982)  {{< br >}}  {{< br >}}Stephen Albert: _Symphony: RiverRun_ (1983)  {{< br >}}  {{< br >}}Astor Piazzolla: _Hora cero_ (1965), _Sex-tet_ (1989)  {{< br >}}  {{< br >}}Ellen Taafe Zwilich: _Clarinet Quintet_ (1990)  {{< br >}}  {{< br >}}John Corigliano: _Symphony no. 1_ (1990) | &nbsp; |
+| 22 | Libby Larsen: _Marimba Concerto: After Hampton_ (1992)  {{< br >}}  {{< br >}}Aaron Jay Kernis: _Still Movement with Hymn_ (1993)  {{< br >}}  {{< br >}}Tan Dun: _Ghost Opera_ (1994)  {{< br >}}  {{< br >}}Jennifer Higdon: _Running the Edge_ (1996)  {{< br >}}  {{< br >}}Peter Child: _Fantasia_ (2003)  {{< br >}}  {{< br >}}Charles Shadle: _The Penny Ballad of Elvious Ricks_ (2005) | Listening quiz 4 due |
+| {{< td-colspan 3 >}}**Unit Seven: Agora**{{< /td-colspan >}} |||
+| 23-26 | Student Presentations of Term Papers | Final version due two days after Lec #24 |
+| &nbsp; | Final Exam |
